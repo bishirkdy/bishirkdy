@@ -27,9 +27,9 @@
 <!-- ==================== PHASE 3: SNAKE ==================== -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishirkdy/bishirkdy/output/dist/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishirkdy/bishirkdy/output/dist/snake-light.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/bishirkdy/bishirkdy/output/dist/snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bishirkdy/bishirkdy/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bishirkdy/bishirkdy/output/snake-light.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/bishirkdy/bishirkdy/output/snake-dark.svg">
   </picture>
 </p>
 
@@ -43,4 +43,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
+Content
